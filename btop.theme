@@ -41,16 +41,16 @@ theme[cpu_mid]="#D93F37"
 theme[cpu_end]="#DA0F0F"
 
 theme[free_start]="#9A9D9A"
-theme[free_mid]="#caeac5"
-theme[free_end]="#b0e0a8"
+theme[free_mid]="#13a6ac"
+theme[free_end]="#0d7377"
 
 theme[cached_start]="#9A9D9A"
 theme[cached_mid]="#D93F37"
 theme[cached_end]="#DA0F0F"
 
 theme[available_start]="#9A9D9A"
-theme[available_mid]="#D93F37"
-theme[available_end]="#DA0F0F"
+theme[available_mid]="#8afff6"
+theme[available_end]="#14FFEC"
 
 theme[used_start]="#9A9D9A"
 theme[used_mid]="#D93F37"
