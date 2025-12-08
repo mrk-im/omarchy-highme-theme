@@ -10,10 +10,10 @@ theme[main_fg]="#CECFC9"
 theme[title]="#CECFC9"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#14FFEC"
+theme[hi_fg]="#ffc8c8"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#0D7377"
+theme[selected_bg]="#ffc8c8"
 
 # Foreground color of selected item in processes box
 theme[selected_fg]="#FFFFFF"
