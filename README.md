@@ -13,5 +13,6 @@ To install this theme, simply use the `omarchy-theme-install` command:
 ```bash
 omarchy-theme-install https://github.com/mrk-im/omarchy-highme-theme
 ```
+## Requirements
 
-icons: https://www.pling.com/p/1440037
+Icons: https://www.pling.com/p/1440037
