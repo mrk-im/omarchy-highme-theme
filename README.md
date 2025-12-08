@@ -1,4 +1,4 @@
-# Omarchy highme Theme
+# Omarchy Highme Theme
 
 Dark and light pink theme for [Omarchy.org](https://omarchy.org)
 
