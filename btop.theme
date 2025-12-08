@@ -1,7 +1,7 @@
 # Btop Custom Red & Black Theme
 
 # Main background, empty for terminal default, need to be empty if you want transparent background
-theme[main_bg]="#212121"
+theme[main_bg]="#101010"
 
 # Main text color
 theme[main_fg]="#CECFC9"
@@ -33,33 +33,33 @@ theme[div_line]="#9A9D9A"
 
 # Gradient for all meters and graphs
 theme[temp_start]="#9A9D9A"
-theme[temp_mid]="#D93F37"
-theme[temp_end]="#DA0F0F"
+theme[temp_mid]="#8afff6"
+theme[temp_end]="#14FFEC"
 
 theme[cpu_start]="#9A9D9A"
-theme[cpu_mid]="#D93F37"
-theme[cpu_end]="#DA0F0F"
+theme[cpu_mid]="#8afff6"
+theme[cpu_end]="#14FFEC"
 
 theme[free_start]="#9A9D9A"
-theme[free_mid]="#13a6ac"
-theme[free_end]="#0d7377"
+theme[free_mid]="#8afff6"
+theme[free_end]="#14FFEC"
 
 theme[cached_start]="#9A9D9A"
-theme[cached_mid]="#D93F37"
-theme[cached_end]="#DA0F0F"
+theme[cached_mid]="#8afff6"
+theme[cached_end]="#14FFEC"
 
 theme[available_start]="#9A9D9A"
 theme[available_mid]="#8afff6"
 theme[available_end]="#14FFEC"
 
 theme[used_start]="#9A9D9A"
-theme[used_mid]="#D93F37"
-theme[used_end]="#DA0F0F"
+theme[used_mid]="#8afff6"
+theme[used_end]="#14FFEC"
 
 theme[download_start]="#9A9D9A"
-theme[download_mid]="#D93F37"
-theme[download_end]="#DA0F0F"
+theme[download_mid]="#8afff6"
+theme[download_end]="#14FFEC"
 
 theme[upload_start]="#9A9D9A"
-theme[upload_mid]="#D93F37"
-theme[upload_end]="#DA0F0F"
+theme[upload_mid]="#8afff6"
+theme[upload_end]="#14FFEC"
