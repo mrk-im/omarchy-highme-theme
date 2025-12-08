@@ -1,4 +1,4 @@
-# Omarchy HighMe Theme
+# Omarchy highme Theme
 
 This is my theme for [Omarchy.org](https://omarchy.org)
 
