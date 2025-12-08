@@ -41,8 +41,8 @@ theme[cpu_mid]="#8afff6"
 theme[cpu_end]="#14FFEC"
 
 theme[free_start]="#9A9D9A"
-theme[free_mid]="#8afff6"
-theme[free_end]="#14FFEC"
+theme[free_mid]="#f2d5d5"
+theme[free_end]="#ffc8c8"
 
 theme[cached_start]="#9A9D9A"
 theme[cached_mid]="#8afff6"
