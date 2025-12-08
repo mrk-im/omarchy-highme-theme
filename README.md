@@ -13,4 +13,5 @@ To install this theme, simply use the `omarchy-theme-install` command:
 ```bash
 omarchy-theme-install https://github.com/mrk-im/omarchy-highme-theme
 ```
-yay -S humanity-icon-theme yaru-icon-theme hicolor-icon-theme
+
+icons: https://www.pling.com/p/1440037
