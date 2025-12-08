@@ -33,33 +33,33 @@ theme[div_line]="#9A9D9A"
 
 # Gradient for all meters and graphs
 theme[temp_start]="#9A9D9A"
-theme[temp_mid]="#8afff6"
-theme[temp_end]="#14FFEC"
+theme[temp_mid]="#f2d5d5"
+theme[temp_end]="#ffc8c8"
 
 theme[cpu_start]="#9A9D9A"
-theme[cpu_mid]="#8afff6"
-theme[cpu_end]="#14FFEC"
+theme[cpu_mid]="#f2d5d5"
+theme[cpu_end]="#ffc8c8"
 
 theme[free_start]="#9A9D9A"
 theme[free_mid]="#f2d5d5"
 theme[free_end]="#ffc8c8"
 
 theme[cached_start]="#9A9D9A"
-theme[cached_mid]="#8afff6"
-theme[cached_end]="#14FFEC"
+theme[cached_mid]="#f2d5d5"
+theme[cached_end]="#ffc8c8"
 
 theme[available_start]="#9A9D9A"
-theme[available_mid]="#8afff6"
-theme[available_end]="#14FFEC"
+theme[available_mid]="#f2d5d5"
+theme[available_end]="#ffc8c8"
 
 theme[used_start]="#9A9D9A"
-theme[used_mid]="#8afff6"
-theme[used_end]="#14FFEC"
+theme[used_mid]="#f2d5d5"
+theme[used_end]="#ffc8c8"
 
 theme[download_start]="#9A9D9A"
-theme[download_mid]="#8afff6"
-theme[download_end]="#14FFEC"
+theme[download_mid]="#f2d5d5"
+theme[download_end]="#ffc8c8"
 
 theme[upload_start]="#9A9D9A"
-theme[upload_mid]="#8afff6"
-theme[upload_end]="#14FFEC"
+theme[upload_mid]="#f2d5d5"
+theme[upload_end]="#ffc8c8"
