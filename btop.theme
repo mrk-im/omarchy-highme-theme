@@ -1,5 +1,3 @@
-# Btop Custom Red & Black Theme
-
 # Main background, empty for terminal default, need to be empty if you want transparent background
 theme[main_bg]="#101010"
 
