@@ -1,6 +1,6 @@
 # Omarchy highme Theme
 
-This is my theme for [Omarchy.org](https://omarchy.org)
+Dark and light pink theme for [Omarchy.org](https://omarchy.org)
 
 <p align="center">
   <img src="theme.png" alt="HighMe Theme Preview">
