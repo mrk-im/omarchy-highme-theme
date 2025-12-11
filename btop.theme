@@ -30,8 +30,8 @@ theme[proc_box]="#9A9D9A"
 theme[div_line]="#9A9D9A"
 
 # Gradient for all meters and graphs
-theme[temp_start]="#9A9D9A"
-theme[temp_mid]="#f2d5d5"
+theme[temp_start]="#ffc8c8"
+theme[temp_mid]="#ffc8c8"
 theme[temp_end]="#ffc8c8"
 
 theme[cpu_start]="#9A9D9A"
