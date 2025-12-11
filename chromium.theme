@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "theme": {
     "colors": {
-      "frame": [30, 30, 30],
+      "frame": [16, 16, 16],
       "frame_inactive": [50, 50, 50],
       "toolbar": [45, 45, 45],
       "tab_text": [220, 220, 220],
@@ -12,7 +12,7 @@
       "bookmark_text": [220, 220, 220],
       "ntp_background": [35, 35, 35],
       "ntp_text": [220, 220, 220],
-      "button_background": [60, 60, 60]
+      "button_background": [255, 200, 200]
     }
   }
 }
