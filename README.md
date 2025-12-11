@@ -6,9 +6,9 @@ Dark and light pink theme for [Omarchy.org](https://omarchy.org)
   <img src="theme.png" alt="HighMe Theme Preview">
 </p>
 
-## Installation
+## Do not install, Installation
 
-Do not install, testing. To install this theme, simply use the `omarchy-theme-install` command:
+To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
 omarchy-theme-install https://github.com/mrk-im/omarchy-highme-theme
