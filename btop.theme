@@ -50,8 +50,8 @@ theme[available_start]="#9A9D9A"
 theme[available_mid]="#f2d5d5"
 theme[available_end]="#ffc8c8"
 
-theme[used_start]="#9A9D9A"
-theme[used_mid]="#f2d5d5"
+theme[used_start]="#ffc8c8"
+theme[used_mid]="#ffc8c8"
 theme[used_end]="#ffc8c8"
 
 theme[download_start]="#9A9D9A"
