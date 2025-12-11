@@ -1,6 +1,6 @@
 # Omarchy Highme Theme (testing)
 
-Dark and light pink theme for [Omarchy.org](https://omarchy.org)
+My first theme for [Omarchy](https://omarchy.org), please don't install. Just testing . .
 
 <p align="center">
   <img src="theme.png" alt="HighMe Theme Preview">
