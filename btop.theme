@@ -20,7 +20,7 @@ theme[selected_fg]="#3E4149"
 theme[inactive_fg]="#9A9D9A"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#9A9D9A"
+theme[proc_misc]="#CECFC9"
 
 # Box outline and divider line color
 theme[cpu_box]="#9A9D9A"
