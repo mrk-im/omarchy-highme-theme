@@ -1,4 +1,4 @@
-# Omarchy Highme Theme (testing)
+# Omarchy Highme Theme
 
 My first theme for [Omarchy](https://omarchy.org), please don't install. Just testing . .
 
